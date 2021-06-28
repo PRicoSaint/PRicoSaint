@@ -25,10 +25,10 @@ I have learned the basics of HTML, CSS, Javascript and am continuing my educatio
  https://pricosaint.github.io/myPortfolio/
  
  I can be contacted here
- !Github[https://github.com/PRicoSaint]
- !LinkedIn[https://www.linkedin.com/in/esteban-santos-55b717b0/]
- !Twitter[https://twitter.com/pricosaint]
- !Facebook[https://facebook.com/esteban.santos.54]
+ [Github](https://github.com/PRicoSaint)
+ [LinkedIn](https://www.linkedin.com/in/esteban-santos-55b717b0/)
+ [Twitter](https://twitter.com/pricosaint)
+ [Facebook](https://facebook.com/esteban.santos.54)
  
  ### Link to my current Resume
  
