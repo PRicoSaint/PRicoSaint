@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Banner](./assets/images/banner-linkedin.jpg)
 ## Bio
 My name is Esteban Santos (he/him). I am currently a student of the SMU Coding Bootcamp program. Previously, I was a Maintenance Supervisor for various companies, including Pepsico, General Mills and Hormel Foods. I supervised and worked along side Maintenance Mechanics that troubleshot, fixed and completed preventative maintenance on manufacturing equipment. I learned about and worked on mixers, bottle fillers, blast freezers, and many many different types of conveying equipment. I enjoyed seeing how different products were made, from Fruit by the foot to Gatorade. Every experience was very valuable to me.
 
@@ -36,4 +37,4 @@ I have learned the basics of HTML, CSS, Javascript and am continuing my educatio
  
  
  ### Link to my current Resume
- [Resume](https://github.com/PRicoSaint/PRicoSaint/blob/main/Esteban%20A%20Santos%20Resume%20-%202021.docx.pdf)
+ [Resume](./assets/Esteban_A_Santos_Resume-2021.pdf)
