@@ -36,4 +36,4 @@ I have learned the basics of HTML, CSS, Javascript and am continuing my educatio
  
  
  ### Link to my current Resume
- 
+ [Resume](Esteban A Santos Resume - 2021.docx.pdf)
