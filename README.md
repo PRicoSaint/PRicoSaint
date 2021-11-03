@@ -42,4 +42,4 @@ I have learned the basics of HTML, CSS, Javascript and am continuing my educatio
  
  
  ### Link to my current Resume
- [Resume](./assets/Esteban_A_Santos_Resume-2021.pdf)
+ [Resume](./assets/Resume - EASantos 2021v4.pdf)
