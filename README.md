@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-###Full Stack Web Developer
+Full Stack Web Developer - Esteban A Santos (he/him)
 
 <!--
 **PRicoSaint/PRicoSaint** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
