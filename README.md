@@ -28,7 +28,7 @@ I studied at the University of Puerto Rico and obtained a degree in Electrical E
 I have learned the basics of HTML, CSS, Javascript and am continuing my education as I progress through the SMU bootcamp. I am excited to learn more about the back end. One of my hobbies is Warhammer, which requires the building of armies using set units. Learning how to develop databases will allow me to create my own personal army builder that will help me in my hobby endevours.
 
 ### My current work:
- https://pricosaint.github.io/myPortfolio/
+https://shrouded-waters-22536.herokuapp.com/
  
  I can be contacted here:
  
